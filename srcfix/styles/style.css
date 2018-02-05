@@ -1,0 +1,115 @@
+body{
+    background-image: url('../images/123.png');
+    background-position: center;
+    background-size: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background: black;
+    height: 25px;
+    font-family: Calibri;
+    font-size: 19px;
+    color: white;
+    padding: 15px;
+    text-align: right;
+}
+
+/* main content */
+.main{
+    width: 100%;
+    font-family: sans-serif;
+    margin: 10px;
+    text-align: justify;
+    padding-top: 40px;
+}
+
+.profile{
+    box-shadow: 1px 10px 20px #888888;
+    border-style: none;
+    max-width: 300px;
+    background: black;
+    opacity: 0.8;
+    margin: auto;
+    text-align: center;
+    padding-top: 5px;
+    
+}
+.myprofile{
+    width: 90%;
+    height: 70%;    
+    padding: 0;
+    margin: 0;
+    border-radius: 50;
+}
+.mydes{
+    background-color: white;
+    padding: 10px;
+}
+.mydes h1{
+    text-align: center;
+
+}
+.mydes p{
+    padding: 10px;
+}
+.campus{
+    font-size: 12pt;
+    text-align: center;
+}
+
+/* sosial media */
+.sosmed ul li a{
+    list-style-type: none;
+}
+.github{
+    float: left;
+    padding: 2px;
+}
+.linkedin{
+    float: left;
+    padding: 2px;
+}
+.instagram{
+    float: left;
+    padding: 2px;
+}
+.facebook{
+    padding-bottom: 10px;
+}
+
+/* my footer */
+.retangle{
+    text-align: center;
+    background-color: black;
+    color: white;   
+}
+.retangle p a{
+    text-decoration: none;
+    color: white;
+}
+.retangle p a:hover{
+    font-size: 20px;
+}
+
+.maps{
+    padding: 5px 40px;
+}
+
+/* footer
+
+.github{
+    width: 40%;
+    float: left;
+    font-family: sans-serif;
+    padding: 10px 10px;
+    text-align: justify;
+}
+.linkedin{
+    width: 40%;
+    float: left;
+    font-family: sans-serif;
+    padding: 10px 10px;
+    text-align: justify;
+} */
